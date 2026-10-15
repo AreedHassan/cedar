@@ -10,18 +10,6 @@ A pre-product landing page for Cedar OS — a Linux-based OS built around one id
 - [Poppins](https://fonts.google.com/specimen/Poppins) — via `next/font/google`
 - Deployed on [Vercel](https://vercel.com/)
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it locally.
-
-## Deploy
-
-Push to GitHub and connect the repo to Vercel. Zero configuration needed.
 
 ## Built by
 
